@@ -9,19 +9,16 @@ I got the data from Kaggle, which has about 5000 records from employees in varie
 
 ## Run the app locally
 a. Clone the repository by executing:
-
        ```
        git clone https://github.com/devashrishah/Impact-of-Remote-Work-on-Mental-Health.git
        ```
 
  b. Run the following command to ensure all the necessary packages are installed:
-
        ``` 
        pip install -r requirements.txt
        ```
 
 c. Launch app in streamlit by executing:
-
        ```
        streamlit run main.py
        ```
